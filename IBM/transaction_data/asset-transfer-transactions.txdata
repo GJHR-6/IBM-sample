@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "assetTransferExists",
+        "transactionLabel": "A test assetTransferExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createAssetTransfer",
+        "transactionLabel": "A test createAssetTransfer transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readAssetTransfer",
+        "transactionLabel": "A test readAssetTransfer transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateAssetTransfer",
+        "transactionLabel": "A test updateAssetTransfer transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteAssetTransfer",
+        "transactionLabel": "A test deleteAssetTransfer transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
